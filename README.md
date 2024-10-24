@@ -23,10 +23,9 @@ As society advances technologically, ensuring these strides align with common et
 - The [`data`](./data) folder contains the samples collected and used for the analysis of our study.
 
 - The [`documents`](./documents) folder contains markdown versions of:
-
-  - [The ACM code of ethics](./documents/acm-code-of-ethics.md).
-  - [Our Privacy Policy](./documents/privacy-policy.md).
-  - [Our survey](./documents/survey.md).
+  - [The ACM code of ethics](./documents/acm-code-of-ethics.md).
+  - [Our Privacy Policy](./documents/privacy-policy.md).
+  - [Our survey](./documents/survey.md).
 
 - The [`analysis.ipynb`](./analysis.ipynb) contain the code we used to analize our sample.
 - You can also run the analysis via this Colab notebook 👉 <a href="https://colab.research.google.com/drive/1OcMBVrCDxPgEv_tNUTrg7rKePYS6uPs7" target="_blank"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"> </a>.

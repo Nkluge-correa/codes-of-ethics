@@ -6,7 +6,9 @@
     <title>Ethical Dilemmas in Software Development</title>
     <script>
     function redirectToRandomPage() {
+        // Pick a random page from the list
         var pages = ["https://raies.typeform.com/to/WTT5C3ue","https://raies.typeform.com/to/Dn7pVm8r"];
+        // Backup list (built with MS Forms) ["https://forms.office.com/r/mxXnXdwdCR", "https://forms.office.com/r/GCpbLfdE8X"]
         var randomIndex = Math.floor(Math.random() * pages.length);
         var randomPage = pages[randomIndex];
         window.location.href = randomPage;

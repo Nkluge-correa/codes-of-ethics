@@ -7,8 +7,10 @@
     <script>
     function redirectToRandomPage() {
         // Pick a random page from the list
-        var pages = ["https://forms.office.com/r/mxXnXdwdCR", "https://forms.office.com/r/GCpbLfdE8X"];
-        // Old list (built with Typeform) ["https://raies.typeform.com/to/WTT5C3ue","https://raies.typeform.com/to/Dn7pVm8r"]
+        // Option 1: Microsoft Forms
+        //var pages = ["https://forms.office.com/r/mxXnXdwdCR", "https://forms.office.com/r/GCpbLfdE8X"];
+        // Option 2: Typeform Forms
+        var pages =["https://form.typeform.com/to/WTT5C3ue","https://form.typeform.com/to/Dn7pVm8r"];
         var randomIndex = Math.floor(Math.random() * pages.length);
         var randomPage = pages[randomIndex];
         window.location.href = randomPage;

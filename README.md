@@ -1,6 +1,6 @@
 <div align="center">
 
-# Codes of Ethics in IT: _do they matter?_
+# Codes of Ethics in IT: _do they work in isolation?_
 
 [Survey](https://nkluge-correa.github.io/codes-of-ethics/) | [Paper](https://github.com/Nkluge-correa/codes-of-ethics)
 
@@ -8,7 +8,7 @@
 
 </div>
 
-This repository holds a redirection link to the **Codes of Ethics in IT: _do they matter?_** surveys.
+This repository holds a redirection link to the **Codes of Ethics in IT: _do they work in isolation?_** surveys.
 
 ## Abstract
 

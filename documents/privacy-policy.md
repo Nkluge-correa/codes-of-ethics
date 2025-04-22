@@ -1,4 +1,4 @@
-# "Codes of Ethics in IT: _do they matter?_" Privacy Policy
+# "Codes of Ethics in IT: _do they work in isolation?_" Privacy Policy
 
 At **RAIES** ([Rede de Inteligência Artificial Ética e Segura](https://raies.org/)), privacy and security are priorities, and we are committed to transparency in the handling of personal data of our subjects. Therefore, this Privacy Policy sets out how we collect, use, and transfer information from the subjects of this research.
 
@@ -62,7 +62,7 @@ To exercise your rights as a holder, you should contact **RAIES** through the fo
 
 ## How and for how long will your data be stored?
 
-Your personal data collected by **RAIES** will be used and stored for as long as necessary to complete the "Codes of Ethics in IT: _do they matter?_" research.
+Your personal data collected by **RAIES** will be used and stored for as long as necessary to complete the "Codes of Ethics in IT: _do they work in isolation?_" research.
 
 In general, your data will be kept for as long as it is necessary for our survey to be completed. After completion and publication of our results, all your personal data will be deleted from our database.
 

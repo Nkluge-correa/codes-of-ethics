@@ -2,7 +2,7 @@
 
 # Codes of Ethics in IT: _do they work in isolation?_
 
-[Survey](https://nkluge-correa.github.io/codes-of-ethics/) | [Paper](https://github.com/Nkluge-correa/codes-of-ethics)
+[Survey](https://nkluge-correa.github.io/codes-of-ethics/) | [Paper](https://link.springer.com/article/10.1007/s43681-025-00744-2)
 
 <img src="./img/Dilemma-00.gif" alt="An animation of a hand stretching another in front of a computer monitor." height="300">
 
@@ -23,6 +23,7 @@ As society advances technologically, ensuring these strides align with common et
 - The [`data`](./data) folder contains the samples collected and used for the analysis of our study.
 
 - The [`documents`](./documents) folder contains markdown versions of:
+
   - [The ACM code of ethics](./documents/acm-code-of-ethics.md).
   - [Our Privacy Policy](./documents/privacy-policy.md).
   - [Our survey](./documents/survey.md).
@@ -33,6 +34,21 @@ As society advances technologically, ensuring these strides align with common et
 ## Acknowledgments
 
 This research was funded by RAIES ([Rede de Inteligência Artificial Ética e Segura](https://www.raies.org/)). RAIES is a project supported by FAPERGS ([Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul](https://fapergs.rs.gov.br/inicial)) and CNPq ([Conselho Nacional de Desenvolvimento Científico e Tecnológico](https://www.gov.br/cnpq/)).
+
+## Cite as
+
+```bibtex
+@article{correa2025codes,
+  title     = {Codes of Ethics in IT: do they work in isolation?},
+  author    = {Corr{\^e}a, Nicholas Kluge and Santos, James William and Almeida, {\´E}derson de and Pasetti, Marcelo and Schiavon, Dieine and Panizzon, Mateus and Oliveira, Nythamar De},
+  journal   = {AI and Ethics},
+  year      = {2025},
+  doi       = {10.1007/s43681-025-00744-2},
+  url       = {https://doi.org/10.1007/s43681-025-00744-2},
+  issn      = {2730-5961},
+  publisher={Springer}
+}
+```
 
 ## License
 
